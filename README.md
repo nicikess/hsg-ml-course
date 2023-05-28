@@ -1,6 +1,6 @@
 # Introduction to Artificial Intelligence and Machine Learning
 
-I took this course in my masters at HSG as part of my Data Science specialication.
+I took this course in my masters at HSG as part of my Data Science specialication. This repository included notebooks from this course.
 
 ## Key Topics Covered
 1. **Machine Learning Fundamentals**: Gain a strong foundation in traditional supervised and unsupervised machine learning concepts and algorithms.
