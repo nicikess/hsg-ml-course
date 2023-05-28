@@ -1,4 +1,4 @@
-# Introduction to Artificial Intelligence and Machine Learning
+# Machine Learning course
 
 I took this course in my masters at HSG as part of my Data Science specialication. This repository included notebooks from this course.
 
